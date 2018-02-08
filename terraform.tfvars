@@ -1,6 +1,6 @@
 #Add your AWS Keys here 
-access_key = ""
-secret_key = ""
+access_key = "$AWS_ACCESS_KEY"
+secret_key = "$AWS_SECRET_KEY"
 
 
 
