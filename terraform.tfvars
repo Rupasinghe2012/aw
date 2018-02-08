@@ -1,7 +1,6 @@
 #Add your AWS Keys here 
-
-access_key = "AKIAJBPRHJBBVYQ4KHZA"
-secret_key = "3l3uooNmSLE2pzq0ep/lYrqG+WqO2N1QpiESPIVn"
+access_key = "AKIAIPVJ25TTDVRRQ55Q"
+secret_key = "c15aqcUwjoXiKTjXCgadX/QpU5UqG+kcstXc/dLk"
 
 
 
